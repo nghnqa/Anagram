@@ -1,0 +1,161 @@
+obj/local/armeabi/objs-debug/box2d_static/Dynamics/Contacts/b2Contact.o: \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/Dynamics/Contacts/b2Contact.cpp \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2Math.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2Settings.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2Collision.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/Shapes/b2Shape.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2BlockAllocator.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2Fixture.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2Body.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/memory \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2CircleContact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2PolygonContact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2ContactSolver.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2TimeStep.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2TimeOfImpact.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2Distance.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2World.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2StackAllocator.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2ContactManager.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2BroadPhase.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2DynamicTree.h \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2GrowableStack.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
+ E:/Projects/Cocos/NDK/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2Contact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2Math.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2Settings.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/assert.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2Collision.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/Shapes/b2Shape.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2BlockAllocator.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2Fixture.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2Body.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/memory:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2CircleContact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2PolygonContact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/Contacts/b2ContactSolver.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2TimeStep.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2TimeOfImpact.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2Distance.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2World.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2StackAllocator.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2ContactManager.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2BroadPhase.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Collision/b2DynamicTree.h:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Common/b2GrowableStack.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
+
+E:/Projects/Cocos/NDK/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+
+E:\BlueBird\Anagram\proj.android\../cocos2d/external/Box2D/../Box2D/Dynamics/b2WorldCallbacks.h:
