@@ -28,7 +28,7 @@ bool MainMenu::init()
     }   
     Size visibleSize = Director::getInstance()->getVisibleSize();
     Vec2 origin = Director::getInstance()->getVisibleOrigin();
-    
+
     auto closeItem = MenuItemImage::create("mainmenu/CloseNormal.png","mainmenu/CloseSelected.png",CC_CALLBACK_1(MainMenu::menuCloseCallback, this));
     auto muteItem = MenuItemImage::create("mainmenu/MuteEn.png","mainmenu/MuteDis.png",CC_CALLBACK_1(MainMenu::menuMuteCallback, this)); 
 	closeItem->setPosition(Vec2(origin.x + visibleSize.width - closeItem->getContentSize().width/2 ,origin.y + closeItem->getContentSize().height/2));
